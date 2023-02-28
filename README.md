@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![snake gif](https://github.com/davaloslm/davaloslm/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/davaloslm/davaloslm/blob/output/github-contribution-grid-snake.svg)
