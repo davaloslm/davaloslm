@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hi! I'm Leonardo</h3>
 <h3>I'm a Jr. Full Stack Web Developer and an experienced Teacher of English as a foreign language from Argentina</h3>
 <h3>I've been coding since 2020 with the languages and technologies listed below</h3>
-<h3>I'm currently learning Spring</h3>
+<h3>I'm currently learning Spring Boot</h3>
 <br>
 
 </div>
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" />
           
   <br>
 </div>
