@@ -37,7 +37,8 @@ Here are some ideas to get you started:
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" />
-          
+  <img align="center" alt="ARM Assembly" height="30" width="60" src="https://github.com/user-attachments/assets/d64e1e27-aa53-4ab2-b844-5554766f52e7" />
+
   <br>
 </div>
 
