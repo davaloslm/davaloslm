@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div>
 <h3 align="center">Hi! I'm Leonardo</h3>
-<h3>I'm a Jr. Full Stack Web Developer and an experienced Teacher of English as a foreign language from Argentina</h3>
+<h3>I'm a Software Developer and an experienced Teacher of English as a foreign language from Argentina</h3>
 <h3>I've been coding since 2020 with the languages and technologies listed below</h3>
-<h3>I've been teaching Javascript at University since 2024</h3>
+<h3>I've been teaching Javascript since 2024 and Java since 2025 at two different universities. </h3>
 <br>
 
 </div>
